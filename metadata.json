@@ -1,0 +1,8 @@
+{
+  "name": "VisiGuard: Intelligent Video Shield",
+  "description": "A high-performance video management platform featuring automated sensitivity analysis using Gemini AI, real-time processing tracking, and robust RBAC for secure organizational video streaming.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
